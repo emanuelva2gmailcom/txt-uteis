@@ -1,0 +1,39 @@
+Tutoriais explicando o composer:
+1 - https://www.hostinger.com.br/tutoriais/como-instalar-e-usar-o-composer/
+
+2 - https://www.alura.com.br/conteudo/php-composer
+-
+Tutorial criar projeto cakephp:
+1 - https://book.cakephp.org/3/pt/installation.html
+-
+***Primeiro erro após carregar o trecho de codigo para criar um projeto no cakephp***:
+https://stackoverflow.com/questions/35815376/to-enable-extensions-verify-that-they-are-enabled-in-those-ini-files-vagrant
+-
+***Atalho de comando***:
+apt-cache search php7-*
+Palavras-chaves:
+sdstring, int1, ini, xml, zip, curl(pra carregamento mais rapido)
+***instalação do curl***:
+https://stackoverflow.com/questions/19335305/composer-install-error-requires-ext-curl-when-its-actually-enabled
+-
+***Segundo erro relacionado ao phpunit***:
+https://stackoverflow.com/questions/55696556/how-to-fix-this-error-package-phpunit-phpunit-mock-objects-is-abandoned-you-sho
+-
+***Para resolver tem que baixar o unit9 para php versão 7.3, ou maior***:
+https://phpunit.de/getting-started/phpunit-9.html
+-
+***Para resolver o problema do datasource***
+https://github.com/cakephp/debug_kit/issues/671
+Concelhos:
+- inserir no datasources do app.php
+- tentar primeiro instalar a extenção apt-get install php7.4-pdo-splite
+
+
+link do acesso ao localhost:
+http://localhost/master3/alunos
+
+** o meu
+http://localhost/projeto_mentoria/
+
+link da mentoria do gabriel sobre cakephp:
+https://drive.google.com/drive/folders/13Mhl6eAbzuXi3v5Jovp6yTJCw7020nBy
