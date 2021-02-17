@@ -27,7 +27,10 @@ https://github.com/cakephp/debug_kit/issues/671
 Concelhos:
 - inserir no datasources do app.php
 - tentar primeiro instalar a extenção apt-get install php7.4-pdo-splite
-
+-
+***SOBRE GIT***
+Video de uma hora sobre inicialização de git:
+- https://www.youtube.com/watch?v=OuOb1_qADBQ
 
 link do acesso ao localhost:
 http://localhost/master3/alunos
